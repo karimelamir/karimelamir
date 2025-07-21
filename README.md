@@ -1,2 +1,19 @@
-- 👋 Hi, I’m @karimelamir
--a passionate fourth-year mechatronics engineering student with a keen interest in blending mechanical, electrical, and computer engineering principles to solve real-world challenges. On this platform, you'll find a collection of my projects and assignments, showcasing my skills in robotics, automation, control systems, and more. From designing innovative prototypes to implementing efficient algorithms, I thrive on the excitement of creating solutions that merge hardware and software seamlessly. Feel free to explore my work and reach out with any inquiries or opportunities. Let's engineer the future together!"
+Hi, I’m Karim Elamir — a recent Mechatronics Engineering graduate passionate about AI, robotics, and intelligent systems.
+
+I love working at the intersection of hardware and software, building solutions that blend mechanical design, embedded systems, and machine learning. My projects explore:
+
+Robotics & automation
+
+Computer vision & AI
+
+Control systems & IoT
+
+As a fresh graduate, I’m eager to apply my skills in real-world challenges and keep growing in the AI/robotics field.
+
+Here you’ll find a mix of:
+
+Academic projects
+
+Personal experiments
+
+Open-source contributions
