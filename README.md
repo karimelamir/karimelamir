@@ -1,19 +1,22 @@
-Hi, I’m Karim Elamir — a recent Mechatronics Engineering graduate passionate about AI, robotics, and intelligent systems.
+About Me
+👋 Hi, I'm Karim Elamir
+🎓 Recent Mechatronics Engineering Graduate
+🤖 Passionate about AI, Robotics, and Intelligent Systems
 
-I love working at the intersection of hardware and software, building solutions that blend mechanical design, embedded systems, and machine learning. My projects explore:
+Technical Focus
+• Robotics & Automation
+• Computer Vision & Machine Learning
+• Embedded Systems & IoT
+• Control Systems & Industrial Automation
 
-Robotics & automation
+Project Portfolio
+• Academic research in AI-driven robotics
+• Practical applications of computer vision
+• Embedded systems development
+• Open-source contributions in mechatronics
 
-Computer vision & AI
-
-Control systems & IoT
-
-As a fresh graduate, I’m eager to apply my skills in real-world challenges and keep growing in the AI/robotics field.
-
-Here you’ll find a mix of:
-
-Academic projects
-
-Personal experiments
-
-Open-source contributions
+Career Goals
+As a fresh graduate, I'm:
+• Seeking opportunities to apply my skills in real-world AI/robotics challenges
+• Committed to continuous learning in emerging technologies
+• Interested in roles at the hardware-software interface
